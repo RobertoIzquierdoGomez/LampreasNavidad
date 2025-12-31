@@ -1,0 +1,47 @@
+{
+  "clientes" : [ {
+    "id" : 1,
+    "nombre" : "Roberto Rodriguez",
+    "email" : "robert@rodri.com",
+    "detalle" : null,
+    "pedidos" : [ ]
+  }, {
+    "id" : 2,
+    "nombre" : "Andrea Valenti",
+    "email" : "andrea@valenti.com",
+    "detalle" : null,
+    "pedidos" : [ ]
+  }, {
+    "id" : 3,
+    "nombre" : "Yosué",
+    "email" : "youse@mail.com",
+    "detalle" : null,
+    "pedidos" : [ ]
+  }, {
+    "id" : 4,
+    "nombre" : "Jose",
+    "email" : "jose@mail.com",
+    "detalle" : null,
+    "pedidos" : [ ]
+  }, {
+    "id" : 5,
+    "nombre" : "Jose",
+    "email" : "jose@email.com",
+    "detalle" : null,
+    "pedidos" : [ ]
+  } ],
+  "detallesCliente" : [ {
+    "id" : 3,
+    "direccion" : "as",
+    "telefono" : "dasd",
+    "notas" : "asd"
+  }, {
+    "id" : 4,
+    "direccion" : "calle jose",
+    "telefono" : "1234",
+    "notas" : ""
+  } ],
+  "productos" : [ ],
+  "pedidos" : [ ],
+  "detallesPedido" : [ ]
+}

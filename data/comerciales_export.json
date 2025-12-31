@@ -1,0 +1,15 @@
+{
+  "comerciales" : [ {
+    "id" : 1,
+    "nombre" : "Rober",
+    "apellido" : "Left"
+  }, {
+    "id" : 2,
+    "nombre" : "Jose",
+    "apellido" : "Perez"
+  }, {
+    "id" : 3,
+    "nombre" : "Rober Comercial",
+    "apellido" : "Comercial"
+  } ]
+}
